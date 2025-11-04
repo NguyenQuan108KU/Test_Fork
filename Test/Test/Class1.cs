@@ -11,6 +11,7 @@ namespace Test
         static void Main(string[] args)
         {
             Console.WriteLine("Xin chào! Đây là hàm Main đang chạy.");
+            Console.WriteLine("Xin chào! Đây là hàm Main đang chạdkjhabhdjbadjhasy.");
             Console.ReadKey(); // Giữ cửa sổ console không tắt ngay
         }
     }
